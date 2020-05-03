@@ -7,7 +7,7 @@ class Bird:
         print("Bird initialized")
 
     def flyUp(self):
-        print("Flying")
+        print("Flying up")
 
     def flyForward(self):
-        print("Moving")
+        print("Flying forward")
